@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "firstName": "test11",
+      "lastName": "test",
+      "email": "test1@gmail.com",
+      "mobile": "1232142",
+      "salary": "123213"
+    },
+    {
+      "id": 9,
+      "firstName": "test1",
+      "lastName": "test1",
+      "email": "test1",
+      "mobile": "123",
+      "salary": "123"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "test1",
+      "email": "test1",
+      "password": "1234",
+      "mobile": 12312421,
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "123",
+      "email": "123",
+      "password": "213",
+      "mobile": 123,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
